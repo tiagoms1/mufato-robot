@@ -24,7 +24,6 @@ Resource            actions/screen-elementos.resource
 Iniciar sessao
     Set Appium Timeout    30
     Open Application
-
     ...    https://demo.perfectomobile.com/nexperience/perfectomobile/wd/hub
     ...    app=PRIVATE:app-release-mufato.apk
     ...    deviceName=R52T1087A5E
