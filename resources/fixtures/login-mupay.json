@@ -1,0 +1,33 @@
+{
+  "login": {
+    "sucesso": {
+      "cpf": "400.108.620-48",
+      "senha": "Teste@123"
+    },
+    "invalido": {
+      "cpf": "000.000.000-00"
+    },
+    "pass": {
+      "cpf": "421.076.880-44",
+      "senha": "Teste@123"
+    }
+  },
+  "transacoes": {
+    "pix": {
+      "cpf": "943.189.350-94",
+      "phone": "(73) 9 9936-3550",
+      "email": "",
+      "aleatoria": "d45a8dd4-1a42-4e56-b3bb-0b17f2222b98"
+    },
+    "ted": {
+      "cpf": "421.076.880-44"
+    },
+    "p2p": {
+      "cpf": "421.076.880-44"
+    },
+    "code": {
+      "qrcode": "00020101021126710014br.gov.bcb.pix0136ff6a74ab-8d88-4c7d-bfee-f4a4a56224ac0209automacao520400005303986540520.005802BR5909Ana Maria6009SAO PAULO62070503***6304BA31"
+    }
+  }
+  
+}
