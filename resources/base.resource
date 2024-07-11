@@ -26,7 +26,7 @@ Iniciar sessao
     Open Application
     ...    https://trial.app.perfectomobile.com/wd/hub
     ...    app=PRIVATE:app-release-mufato.apk
-    ...    deviceName=R3CW60ABQBB
+    ...    deviceName=37271FDJH008ER
     ...    perfecto:securityToken=eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI2ZDM2NmJiNS01NDAyLTQ4MmMtYTVhOC1kODZhODk4MDYyZjIifQ.eyJpYXQiOjE3MjA3Mjk5NzcsImp0aSI6IjBhMjdhY2FhLTU5NWQtNDQ4OS05MzIyLTY3MTc2M2I3NWEzMSIsImlzcyI6Imh0dHBzOi8vYXV0aDMucGVyZmVjdG9tb2JpbGUuY29tL2F1dGgvcmVhbG1zL3RyaWFsLXBlcmZlY3RvbW9iaWxlLWNvbSIsImF1ZCI6Imh0dHBzOi8vYXV0aDMucGVyZmVjdG9tb2JpbGUuY29tL2F1dGgvcmVhbG1zL3RyaWFsLXBlcmZlY3RvbW9iaWxlLWNvbSIsInN1YiI6IjYyN2YxNjljLTJmNjctNGI3Zi1iNTVkLTIzZDdkZTUzMGZmYSIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJvZmZsaW5lLXRva2VuLWdlbmVyYXRvciIsIm5vbmNlIjoiMjM3Y2Y4NjgtNjJmYS00YjRlLTg3NzYtNzk3ZWMxOTBjYmU3Iiwic2Vzc2lvbl9zdGF0ZSI6IjU5MDZiZmM2LWNjNGEtNGJmMS1hOGIxLWY2ODlhM2I5YTg1OCIsInNjb3BlIjoib3BlbmlkIG9mZmxpbmVfYWNjZXNzIHByb2ZpbGUgZW1haWwifQ.xWt9AqKHSq8NkckPaVgL9USrLdIZmKdtRbZAoBjU2HE
     ...    appPackage=br.com.mupay.qa.app
     ...    appActivity=com.banking.SplashActivity
