@@ -22,6 +22,9 @@ jobs:
       - name: Instalar dependencies
         run: pip install -r requirements.txt
 
+      - name: Atualziar pip
+        run: pip install --upgrade pip 
+
       - name: Instalar perfecto-py3
         run: pip install perfectolibrary-py37
 

@@ -2,12 +2,13 @@
 Documentation       Elementos screen page
 
 Resource            ../base.resource
-Library             XML
+
 
 
 *** Keywords ***
 ### acesso ao app ###
 Botao continue
+    Sleep         5
     ${el} =    Set Variable    xpath=//android.widget.TextView[@text="CONTINUE"]
     Wait Until Element Is Visible    ${el}    timeout=30
     Click Element    ${el}
