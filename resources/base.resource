@@ -35,6 +35,7 @@ Iniciar sessao
     ...    appPackage=br.com.mupay.qa.app
     ...    appActivity=com.banking.SplashActivity
     ...    autoGrantPermissions=true
+    ...    deviceSessionId=e8edd34a-9f66-4cf6-bf39-38b2ed29ee57
 
 Finalizar sessao
     Sleep    2
