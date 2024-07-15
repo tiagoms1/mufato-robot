@@ -34,9 +34,8 @@ Iniciar sessao
     ...    appium:app=PUBLIC:app-release-mufato.apk
     ...    appium:appPackage=br.com.mupay.qa.app
     ...    appium:appActivity=com.banking.SplashActivity
-    ...    appium:fullReset=True
-    ...    appium:autoGrantPermissions=True
-    ...    appium:autoLaunch=True
+    ...    appium:fullReset=true
+    ...    appium:autoGrantPermissions=true
 
 Finalizar sessao
     Sleep    2
