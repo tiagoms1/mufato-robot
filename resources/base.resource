@@ -34,8 +34,8 @@ Iniciar sessao
     ...    autoGrantPermissions=true
     ...    unicodeKeyboard=true
     ...    platformName=Android
-    ...    automationName=UIAutomator2
-#    ...    automationName=PerfectoMobile
+#    ...    automationName=UIAutomator2
+    ...    automationName=PerfectoMobile
 
 Finalizar sessao
     Sleep    2
