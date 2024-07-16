@@ -21,6 +21,8 @@ Resource            actions/screen-elementos.resource
 #     ...    autoGrantPermissions=true
 #     ...    unicodeKeyboard=true
 
+#test
+
 Iniciar sessao
     Set Appium Timeout    30
     Open Application
