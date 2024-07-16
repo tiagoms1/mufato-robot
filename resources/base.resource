@@ -26,8 +26,8 @@ Iniciar sessao
     Open Application
     ...    https://demo.perfectomobile.com/nexperience/perfectomobile/wd/hub
     ...    platformName=Android
-#    ...    deviceName=R52T1087A5E
-    ...    deviceName=21151FDEE00420
+    ...    deviceName=R52T1087A5E
+#    ...    deviceName=21151FDEE00420
     ...    automationName=UIAutomator2
     ...    app=PUBLIC:app-release-mufato.apk
     ...    appPackage=br.com.mupay.app
