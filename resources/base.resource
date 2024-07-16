@@ -24,7 +24,7 @@ Resource            actions/screen-elementos.resource
 #test
 
 Iniciar sessao
-    Set Appium Timeout    30
+    Set Appium Timeout    31
     Open Application
     ...    https://demo.perfectomobile.com/nexperience/perfectomobile/wd/hub
     ...    appiumVersion=latest
