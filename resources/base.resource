@@ -26,7 +26,6 @@ Iniciar sessao
     Open Application
     ...    https://demo.perfectomobile.com/nexperience/perfectomobile/wd/hub
     ...    deviceName=R52T1087A5E
-#    ...    deviceName=21151FDEE00420
     ...    platformName=Android
     ...    automationName=UIAutomator2
     ...    app=PUBLIC:app-release-mufato.apk
