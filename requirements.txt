@@ -1,4 +1,4 @@
 robotframework==6.1.1
 robotframework-appiumlibrary==2.0.0
 robotframework-jsonlibrary==0.5
-perfectolibrary_py37==0.2.8
+perfectolibrary_py37==0.5.2
