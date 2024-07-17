@@ -4,6 +4,7 @@ Documentation       Arquivo base do projeto
 Library             AppiumLibrary
 Library             JSONLibrary
 Library             DateTime
+Library             PerfectoLibrary
 Resource            actions/screen-elementos.resource
 
 
