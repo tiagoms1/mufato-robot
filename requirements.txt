@@ -1,4 +1,4 @@
 robotframework==6.1.1
 robotframework-appiumlibrary==2.0.0
 robotframework-jsonlibrary==0.5
-perfecto-py3==latest
+perfecto-py3==1.0.1
