@@ -10,7 +10,7 @@ Resource            actions/screen-elementos.resource
 
 *** Keywords ***
 # Iniciar sessao
-#     Set Appium Timeout    30
+#     Set Appium Timeout    31
 #     Open Application
 #     ...    http://127.0.0.1:4723
 #     ...    platformName=Android
