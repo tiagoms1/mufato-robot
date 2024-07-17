@@ -4,8 +4,9 @@ Documentation       Arquivo base do projeto
 Library             AppiumLibrary
 Library             JSONLibrary
 Library             DateTime
+Library             PerfectoLibrary
+
 Resource            actions/screen-elementos.resource
-Library             PerfectoLibrary   Mufato  |  0.1  |  Mupay  |  checks
 
 *** Keywords ***
 # Iniciar sessao
