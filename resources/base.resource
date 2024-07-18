@@ -38,7 +38,7 @@ Iniciar sessao
     ...    https://perfectose-public.perfectomobile.com/nexperience/perfectomobile/wd/hub
     ...    appiumVersion=latest
     ...    platformName=Android
-    ...    deviceName=R38M2069TEZ
+    ...    deviceName=1C281FDF600537
     ...    automationName=UIAutomator2
     ...    app=PUBLIC:app-release-mufato.apk
     ...    appPackage=br.com.mupay.app
